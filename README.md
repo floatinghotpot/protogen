@@ -1,4 +1,4 @@
-# node-protogen-csharp #
+# ProtoGen
 
 CLI tool to parse protobuf .proto file to C#, based on protobuf-net, also works on Windows/Mac/Linux.
 
@@ -10,7 +10,7 @@ CLI tool to parse protobuf .proto file to C#, based on protobuf-net, also works 
 
 * protogen.exe, a CLI comes with protobuf-net project, can parse .proto to C#, but it works on Windows only.
 
-* node-protogen-csharp, this tool, is a wrapper to protogen.exe, can also work on Mac/Linux.
+* node-protogen-csharp, this tool, a wrapper to protogen.exe, can also work on Mac/Linux.
 
 # Install
 

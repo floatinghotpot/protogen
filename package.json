@@ -1,12 +1,12 @@
 {
-  "name": "node-protogen-csharp",
+  "name": "protogen",
   "version": "0.2.0",
   "description": "CLI tool to parse protobuf .proto file to C#, based on protobuf-net, also works on Windows/Mac/Linux",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/floatinghotpot/node-protogen-csharp.git"
+    "url": "git://github.com/floatinghotpot/protogen.git"
   },
   "keywords": [
     "protobuf",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/floatinghotpot/node-protogen-csharp/issues"
+    "url": "https://github.com/floatinghotpot/protogen/issues"
   },
   "dependencies": {},
   "devDependencies": {},
