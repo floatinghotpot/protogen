@@ -1,6 +1,6 @@
 {
   "name": "protogen",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "CLI tool to parse protobuf .proto file to C#, based on protobuf-net, also works on Windows/Mac/Linux",
   "main": "index.js",
   "scripts": {},
